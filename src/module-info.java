@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ysolt
+ *
+ */
+module HexaDecimalSudoku {
+}
